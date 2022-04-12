@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.e0fc8f19.css",
-    "main.js": "/portfolio2/static/js/main.0e53b306.js",
+    "main.css": "/portfolio2/static/css/main.fc9946c4.css",
+    "main.js": "/portfolio2/static/js/main.8896127b.js",
     "static/media/deploymentBackground.jpg": "/portfolio2/static/media/deploymentBackground.25b66aba1b05ff8e86af.jpg",
     "static/media/Weather-App.png": "/portfolio2/static/media/Weather-App.1687f4a5100bcf9f593d.png",
     "static/media/contactFormBackground.jpg": "/portfolio2/static/media/contactFormBackground.56b02b8858c3029a9520.jpg",
@@ -10,11 +10,11 @@
     "static/media/Car-Rental.png": "/portfolio2/static/media/Car-Rental.5fa1d14c84366ee77a4f.png",
     "static/media/Profile.jpg": "/portfolio2/static/media/Profile.b06b5fba2200e93c677e.jpg",
     "index.html": "/portfolio2/index.html",
-    "main.e0fc8f19.css.map": "/portfolio2/static/css/main.e0fc8f19.css.map",
-    "main.0e53b306.js.map": "/portfolio2/static/js/main.0e53b306.js.map"
+    "main.fc9946c4.css.map": "/portfolio2/static/css/main.fc9946c4.css.map",
+    "main.8896127b.js.map": "/portfolio2/static/js/main.8896127b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0fc8f19.css",
-    "static/js/main.0e53b306.js"
+    "static/css/main.fc9946c4.css",
+    "static/js/main.8896127b.js"
   ]
 }
